@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "prisma": "^3.9.1"
+    "prisma": "^3.9.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.5"
   }
 }
